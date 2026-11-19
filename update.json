@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.1",
-  "apkUrl": "https://github.com/barezi5527/TSVOetlingenInofi-Releases/releases/download/v1.1.1/TSVOetlingenInofi-v1.1.1.apk",
-  "changelog": "Plakat: Wasserzeichen wird jetzt aus der ausgewählten Mannschaft abgeleitet.",
+  "versionCode": 4,
+  "versionName": "1.1.2",
+  "apkUrl": "https://github.com/barezi5527/TSVOetlingenInofi-Releases/releases/download/v1.1.2/TSVOetlingenInofi-v1.1.2.apk",
+  "changelog": "Update-Prüfung beim Start robuster; Heim/Auswärts im Spieltag aus Sicht der angezeigten Mannschaft.",
   "minVersionCode": 1
 }
